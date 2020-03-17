@@ -1,0 +1,16 @@
+D:\Programming\vacanta\MagneticPixels\MagneticPixels\bin\Release\MagneticPixels.exe.config
+D:\Programming\vacanta\MagneticPixels\MagneticPixels\obj\Release\MagneticPixels.Form1.resources
+D:\Programming\vacanta\MagneticPixels\MagneticPixels\obj\Release\MagneticPixels.Properties.Resources.resources
+D:\Programming\vacanta\MagneticPixels\MagneticPixels\obj\Release\MagneticPixels.csproj.GenerateResource.Cache
+D:\Programming\vacanta\MagneticPixels\MagneticPixels\bin\Release\MagneticPixels.exe
+D:\Programming\vacanta\MagneticPixels\MagneticPixels\bin\Release\MagneticPixels.pdb
+D:\Programming\vacanta\MagneticPixels\MagneticPixels\bin\Release\AForge.Video.DirectShow.dll
+D:\Programming\vacanta\MagneticPixels\MagneticPixels\bin\Release\AForge.Video.dll
+D:\Programming\vacanta\MagneticPixels\MagneticPixels\bin\Release\AForge.dll
+D:\Programming\vacanta\MagneticPixels\MagneticPixels\bin\Release\AForge.Video.xml
+D:\Programming\vacanta\MagneticPixels\MagneticPixels\bin\Release\AForge.Video.DirectShow.xml
+D:\Programming\vacanta\MagneticPixels\MagneticPixels\bin\Release\AForge.pdb
+D:\Programming\vacanta\MagneticPixels\MagneticPixels\bin\Release\AForge.xml
+D:\Programming\vacanta\MagneticPixels\MagneticPixels\obj\Release\MagneticPixels.exe
+D:\Programming\vacanta\MagneticPixels\MagneticPixels\obj\Release\MagneticPixels.pdb
+D:\Programming\vacanta\MagneticPixels\MagneticPixels\obj\Release\MagneticPixels.csprojResolveAssemblyReference.cache
